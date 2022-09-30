@@ -2,4 +2,4 @@
 
 # Вы можете посмотреть ссылку тут
 
-[Это моя первая работа по HTML & CSS](http://127.0.0.1:5500/index1.html)
+[Это моя первая работа по HTML & CSS](https://skalzhan.github.io/resume/)
